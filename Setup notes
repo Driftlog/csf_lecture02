@@ -1,0 +1,9 @@
+create git repo
+create new angular project
+go into project directory
+install bootstrap (npm install bootstrap)
+open vscode
+tsconfig.json, strict set to false
+include boostrap in angular json (edit script [])
+install & setup script in angular
+generate components
